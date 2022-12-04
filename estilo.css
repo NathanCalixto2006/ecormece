@@ -1,0 +1,37 @@
+.titulo{
+    color:rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
+.corroupa{
+    color:rgb(0, 0, 0);
+}
+
+.card{
+    border: solid rgb(5, 5, 5);
+    margin: 60px 10px;
+    width: 300px;
+    height: 350px;
+
+}
+.card img{
+    height:250px;
+    width: 80%;
+}
+.produtos{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.descricao{
+    color:rgb(247, 242, 242);
+    background-color: rgb(0, 0, 0);
+}
+.feminina{
+    color:rgb(0, 0, 0);
+    background-color: rgb(226, 105, 206);
+    width: 150px;
+}
+.roupasF{
+    color: rgb(254, 251, 255);
+    background-color: blueviolet;
+}
